@@ -11,4 +11,21 @@ https://www.youtube.com/watch?v=wWO_dKUcTGU
 
 ## Website
 https://peymanmola1.github.io/Sharing-is-Caring-Web/
+
+## Blogs (not all done but I have include the completed ones)
+http://fourthfloor.raveweb.net/pmola/2017/01/27/sharing-is-caring/
+
+http://fourthfloor.raveweb.net/pmola/2017/01/29/javascript-for-cats/
+
+http://fourthfloor.raveweb.net/pmola/2017/03/12/techniques-i-could-use/
+
+http://fourthfloor.raveweb.net/pmola/2017/03/12/techniques-i-could-use/
+
+http://fourthfloor.raveweb.net/pmola/2017/03/12/copywriting-is-interface-design/
+
+http://fourthfloor.raveweb.net/pmola/2017/03/12/infographic-comparison/
+
+http://fourthfloor.raveweb.net/pmola/2017/03/12/interviewing-people/
+
+
 
